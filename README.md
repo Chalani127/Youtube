@@ -4,7 +4,7 @@
 This project is a front-end clone of YouTube, built using HTML and CSS only.
 The goal was to replicate the layout, design, and responsiveness of YouTube’s homepage to practice modern web design techniques, layout structuring, and UI styling.
 
-🚀 Features
+Features:
 
 🎨 YouTube-style homepage layout (header, sidebar, video grid)
 
@@ -16,8 +16,7 @@ The goal was to replicate the layout, design, and responsiveness of YouTube’s 
 
 💾 Built purely with HTML5 & CSS3 — no frameworks or JS used
 
-🛠️ Technologies Used
 
-HTML5
-
-CSS3 (Flexbox & Grid)
+Technologies Used:
+# HTML5
+# CSS3 (Flexbox & Grid)
