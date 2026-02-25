@@ -7,12 +7,18 @@ The goal was to replicate the layout, design, and responsiveness of YouTube’s 
 Features:
 
 🎨 YouTube-style homepage layout (header, sidebar, video grid)
+
 📱 Responsive design (adjusts to desktop, tablet, and mobile screens)
+
 🔍 Search bar and navigation icons styled like YouTube
+
 🧩 Organized video cards with thumbnails, titles, and channel info
+
 💾 Built purely with HTML5 & CSS3 — no frameworks or JS used
 
 
 Technologies Used:
+
 💾 HTML5
+
 💾 CSS3 (Flexbox & Grid)
